@@ -1,0 +1,51 @@
+body{
+    background-color: chocolate;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+article{
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+article p{
+    margin-bottom: 10px;
+}
+fieldset{
+    border-radius: 8%;
+    background-color: azure;
+}
+.img1{
+    width: 150px;
+    position: relative;
+    left:-20px;
+}
+.img2{
+    width: 90px;
+    height: 250px;
+}
+.img3{
+    width: 260px;
+    position: relative;
+    left:-90px;
+}
+.p1{
+    margin-top: 45px;
+}
+.p2{
+ position:relative;
+ left:50px;
+margin-top:45px;
+}
+.p3 {
+    position: relative;
+    left: -120px;
+    margin-top: 45px;
+}
+footer{
+    background-color: azure;
+}
